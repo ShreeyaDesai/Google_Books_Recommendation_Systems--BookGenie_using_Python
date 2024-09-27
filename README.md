@@ -19,3 +19,6 @@ K-Nearest Neighbors
 
 # Conclusion
 This analysis demonstrates that book-related variables can effectively predict book similarities. The TFIDF yielded promising results, suggesting its potential for building an accurate book recommendation system. Further exploration and fine-tuning of models can enhance the system's performance.
+
+# Output
+![image](https://github.com/ShreeyaDesai/Google_Books_Recommendation_Systems--BookGenie_using_Python/blob/main/output.png)
