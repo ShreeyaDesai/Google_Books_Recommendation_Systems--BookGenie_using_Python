@@ -6,7 +6,6 @@ Welcome to Book Genie, your personal literary wish-granter!
 Here's how Book Genie unlocks the perfect books for you:
 
 1. Gathering the Treasures:
-
 Book Genie taps into the vast world of Google Books, gathering a trove of literary gems.
 This enchanting information is carefully stored in a special book vault, ready for your exploration.
 
